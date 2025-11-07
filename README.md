@@ -46,12 +46,12 @@ A modern and interactive gym website featuring details about fitness programs, m
 ---
 
 ## 🌱 Currently Learning 
-- CI/CD & container orchestration
+- Java Frameworks
 
 ---
 
 ## 📫 Connect
 - LinkedIn: [https://linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/ravish-kumar-58015621b/)
 - Email: ravishrajput0324@gmail.com
-- GitHub: https://github.com/Pappukumar92
+- GitHub: https://github.com/RavishRajput2403
 
