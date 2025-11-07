@@ -41,3 +41,17 @@ A modern and interactive gym website featuring details about fitness programs, m
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+---
+
+## 🌱 Currently Learning 
+- CI/CD & container orchestration
+
+---
+
+## 📫 Connect
+- LinkedIn: [https://linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/ravish-kumar-58015621b/)
+- Email: ravishrajput0324@gmail.com
+- GitHub: https://github.com/Pappukumar92
+
