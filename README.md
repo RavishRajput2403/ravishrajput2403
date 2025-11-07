@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Ravish Kumar!
 
 ## 💼 About Me
-I’m a Software Engineer & B.E. Computer Science Engineer (graduated 2025).
-I work on web development, I enjoy turning ideas into clean, efficient apps.
+Motivated and detail-oriented Software Engineer with a B.E. in Computer Science (2025). Skilled in developing dynamic and responsive web applications using the MERN stack. I enjoy transforming ideas into efficient, user-focused solutions and continuously improving my skills in full-stack development. Passionate about clean code, modern design, and solving real-world problems through technology.
 
 ---
 
