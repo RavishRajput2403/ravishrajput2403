@@ -9,6 +9,7 @@ Motivated and detail-oriented Software Engineer with a B.E. in Computer Science 
 
 ### 📝 AI-Powered Trip Planner   
 a smart travel planning web app that helps users create personalized trip itineraries using AI. The app suggests destinations, hotels, routes, and day-wise plans based on user preferences such as budget, duration, and interests.
+---
 **Tech Used:** ReactJS, Firebase, GeminiAI, TailwindCSS  
 
 ---
