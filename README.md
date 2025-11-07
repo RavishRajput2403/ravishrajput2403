@@ -9,27 +9,18 @@ I work on MERN Stack, I enjoy turning ideas into clean, efficient apps.
 ## 🚀 Projects
 
 ### 📝 AI-Powered Trip Planner   
-A full-featured platform where users can create, edit, and publish blogs with user authentication, likes, and comments.  
-**Tech Used:** React, Node.js, Express.js, MongoDB  
+a smart travel planning web app that helps users create personalized trip itineraries using AI. The app suggests destinations, hotels, routes, and day-wise plans based on user preferences such as budget, duration, and interests.
+**Tech Used:** ReactJS, Firebase, GeminiAI, TailwindCSS  
 
 ---
 
-### 🛍️ E-Commerce Platform  
-An online shopping platform with product catalog, shopping cart, user authentication, and payment gateway integration.  
-**Tech Used:** Java, Spring Boot, MySQL  
-
----
-
-### 🌦️ Weather Forecast Application  
-A responsive web app that provides real-time weather updates using API data.  
-**Tech Used:** HTML, CSS, JavaScript, OpenWeather API  
-
+### 🛍️ Workout Suggestion Website   
+A modern and interactive gym website featuring details about fitness programs, membership plans, trainers, and class schedules with an engaging layout that helps users explore and connect easily.
+**Tech Used:**  ReactJS, TailwindCSS, Framer
 
 ## 🧰 Tech Stack & Skills
 
 ### 💻 Languages & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,10 +34,6 @@ A responsive web app that provides real-time weather updates using API data.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🧠 Tools & Technologies  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,4 +42,3 @@ A responsive web app that provides real-time weather updates using API data.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
